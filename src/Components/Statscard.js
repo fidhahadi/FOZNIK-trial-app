@@ -5,7 +5,7 @@ function Statscard({
     stats,
     icons,
     sampletext,
-    imageSize=30
+    imageSize=40
 }) {
 
   return (

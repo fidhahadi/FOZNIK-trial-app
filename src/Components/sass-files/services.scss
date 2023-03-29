@@ -1,0 +1,20 @@
+.services-container {
+        height: 400px;
+        width: 100%;
+        background-color: white;
+        border: 5px solid white;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    color: rgb(0, 0, 0);
+    text-align: center;
+}
+.service1, .service2, .service3 {
+    border: 1px solid white;
+    text-align: center;
+    padding: 40px
+
+}
+
+
+@import "~bootstrap/scss/bootstrap";

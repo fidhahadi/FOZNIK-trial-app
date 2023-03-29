@@ -1,0 +1,16 @@
+.whoweare-container {
+    height: 600px;
+    width: 100%;
+    background-color: white;
+    
+}
+.h3-whoweare {
+    text-align: center
+}
+.flex-whoweare {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+@import "~bootstrap/scss/bootstrap";
